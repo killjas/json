@@ -1,0 +1,34 @@
+{
+   "success":true,
+   "userInfo":{
+      "Balance":1000,
+      "CurrentTariff":"Бесплатный доступ",
+      "ChecksLeft":3,
+      "ChecksTotal":0,
+      "CurrentCollections":[
+         "Интернет"
+      ],
+      "EndTariffTime":1000000,
+      "FileExtensions":[
+         "pdf",
+         "txt"
+      ],
+      "FileExtensionsCommon":[
+         "doc",
+         "docx",
+         "pptx",
+         "htm",
+         "html",
+         "pdf",
+         "rtf",
+         "txt",
+         "odt",
+         "7z",
+         "zip",
+         "rar"
+      ],
+      "MaxMbFileSize":15,
+      "IsFree":true,
+      "IsUpdateCabinet":true
+   }
+}
